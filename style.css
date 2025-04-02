@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #403730;
+  background-color: #678b68;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -9,9 +9,9 @@ body {
 }
 
 .container {
-  background-color: #c7c7e2;
+  background-color: #bbbaf7;
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 20px;
   text-align: center;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
@@ -21,9 +21,14 @@ h2 {
 }
 
 input, select, button {
-  margin: 10px 0;
+  margin: 30px 0;
   padding: 8px;
   font-size: 16px;
+  border-radius: 10px;
+  border: none;
+}
+select{
+  background-color: #7f7d7d;
 }
 
 .dropdowns {
@@ -38,8 +43,8 @@ button {
   color: white;
   border: none;
   cursor: pointer;
-  padding: 10px;
-  border-radius: 5px;
+  padding: 15px;
+  border-radius: 20px;
 }
 
 button:hover {
