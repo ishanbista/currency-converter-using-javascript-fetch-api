@@ -18,7 +18,7 @@ This is a simple currency converter website I made with HTML, CSS, and JavaScrip
 
 # Installation
 1. Clone the repository<br>
-git clone 
+git clone https://github.com/ishanbista/currency-converter-using-javascript-fetch-api
 2. Open the index.html file in your browser to view the application.
    
 # API Used
@@ -33,7 +33,8 @@ git clone
   ![Image](https://github.com/user-attachments/assets/47376b42-0127-4cfd-a385-ee044f5914c6)
     
   </div>
-  # Contributing<br>
+  
+# Contributing
   If you'd like to contribute to this project, feel free to fork the repository, create a new branch, make your changes, and submit a pull request.
   
 
