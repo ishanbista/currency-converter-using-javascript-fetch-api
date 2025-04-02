@@ -33,7 +33,7 @@ git clone
   ![Image](https://github.com/user-attachments/assets/47376b42-0127-4cfd-a385-ee044f5914c6)
     
   </div>
-  # Contributing
+  # Contributing<br>
   If you'd like to contribute to this project, feel free to fork the repository, create a new branch, make your changes, and submit a pull request.
   
 
